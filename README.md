@@ -22,12 +22,12 @@ This portfolio is a responsive and modern website designed using **HTML5** and *
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YourGitHubUsername/YourPortfolioRepo.git
+    git clone https://github.com/JohnNkakuyia/My_portfolio.git
     ```
 
 2. **Navigate to the project folder**:
     ```bash
-    cd YourPortfolioRepo
+    cd My_portfolio
     ```
 
 3. **Open `index.html`** in your preferred web browser:
@@ -73,7 +73,7 @@ This portfolio is a responsive and modern website designed using **HTML5** and *
 Feel free to reach out for collaborations, freelance opportunities, or professional networking.
 
 - 📧 Email: [johnnkakuyia@email.com](mailto:johnnkakuyia@email.com)
-- 📞 Phone: +254710218206
+- 📞 Phone: +254798973
 - 🔗 LinkedIn: [JohnNkakuyia](https://www.linkedin.com/in/johnnkakuyia/)
 - 💻 GitHub: [YourGitHubUsername](https://github.com/yourusername)
 
