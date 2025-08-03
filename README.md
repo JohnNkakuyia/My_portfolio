@@ -75,7 +75,7 @@ Feel free to reach out for collaborations, freelance opportunities, or professio
 - 📧 Email: [johnnkakuyia@email.com](mailto:johnnkakuyia@email.com)
 - 📞 Phone: +254798973
 - 🔗 LinkedIn: [JohnNkakuyia](https://www.linkedin.com/in/johnnkakuyia/)
-- 💻 GitHub: [YourGitHubUsername](https://github.com/johnnkakuyia)
+- 💻 GitHub: [JohnNkakuyia](https://github.com/johnnkakuyia)
 
 ---
 
